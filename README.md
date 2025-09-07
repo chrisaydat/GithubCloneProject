@@ -1,3 +1,6 @@
-This is the description of my repo
+## GitHubCloneProject
+
+Objective: Practice branches, merges, and conflicts.
 
 Line from main branch.
+Line from feature-greeting.
